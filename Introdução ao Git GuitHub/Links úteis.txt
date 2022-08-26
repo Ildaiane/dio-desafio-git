@@ -1,0 +1,4 @@
+
+Git dowload (https://git-scm.com/downloads)
+Sintaxe básica markdown (https://www.markdownguide.org/basic-syntax/)
+Acesso a DIO (https://www.dio.me/sign-in)
